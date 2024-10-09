@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Application/bin/Debug/net8.0
+/Application/obj
+/Domain/bin/Debug/net8.0
+/Domain/obj
+/Infrastructure/bin/Debug/net8.0
+/Infrastructure/obj
+/Inventory/bin/Debug/net8.0
+/Inventory/obj
